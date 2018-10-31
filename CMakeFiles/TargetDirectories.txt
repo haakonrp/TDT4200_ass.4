@@ -1,0 +1,3 @@
+/home/shomeb/h/haakonrp/Desktop/tdt4200_ass4/TDT4200-Assignment-4/CMakeFiles/rebuild_cache.dir
+/home/shomeb/h/haakonrp/Desktop/tdt4200_ass4/TDT4200-Assignment-4/CMakeFiles/gpurender.dir
+/home/shomeb/h/haakonrp/Desktop/tdt4200_ass4/TDT4200-Assignment-4/CMakeFiles/edit_cache.dir
